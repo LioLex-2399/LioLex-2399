@@ -1,11 +1,13 @@
 ### Hi there 👋
+Hello, world! I am currently a student learning code! I know HTML, python, and CSS, and a little JS.
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on [this](https://replit.com/@A395382-leolex/A395382-LioLex)
 
 <!--
 **LioLex-2399/LioLex-2399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
